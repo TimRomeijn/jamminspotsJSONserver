@@ -1,11 +1,29 @@
 {
-  "posts": [
+  "jammers": [
     {
-      "id": 1,
-      "title": "hello"
+      "user_id": 1,
+      "name": "Kees",
+      "latitude": 51.91719,
+      "longitude": 4.488323,
+      "description": "Wil graag pingelen",
+      "instrument": "Gitaar"
+    },
+    {
+      "user_id": 2,
+      "name": "Jaap",
+      "latitude": 51.91719,
+      "longitude": 4.488323,
+      "description": "Wil graag grooven",
+      "instrument": "Basgitaar"
+    },
+    {
+      "user_id": 3,
+      "name": "Mikael",
+      "latitude": 51.91719,
+      "longitude": 4.488323,
+      "description": "Wil graag bléren",
+      "instrument": "Vocals"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  ]
 }
