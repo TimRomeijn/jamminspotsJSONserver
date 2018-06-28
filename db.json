@@ -5,8 +5,8 @@
       "name": "Kees",
       "description": "Wil graag pingelen",
       "instrument": "Gitaar",
-      "latitude": 51.91719,
-      "longitude": 4.488323,
+      "latitude": 52.096798,
+      "longitude": 4.267910,
       "views": 1
     },
     {
@@ -14,36 +14,36 @@
       "name": "Jaap",
       "description": "Wil graag grooven",
       "instrument": "Basgitaar",
-      "latitude": 51.91719,
-      "longitude": 4.488323,
-      "views": 1
+      "latitude": 52.098459,
+      "longitude": 4.270313,
+      "views": 3
     },
     {
       "user_id": 3,
       "name": "Mikael",
       "description": "Wil graag bléren",
       "instrument": "Vocals",
-      "latitude": 51.91719,
-      "longitude": 4.488323,
-      "views": 1
+      "latitude": 52.098282,
+      "longitude": 4.270501,
+      "views": 2
     },
     {
       "user_id": 4,
       "name": "Vinnie",
       "description": "Wil graag drummen",
       "instrument": "Drums",
-      "latitude": 51.91719,
-      "longitude": 4.488323,
-      "views": 1
+      "latitude": 52.099863,
+      "longitude": 4.269525,
+      "views": 5
     },
     {
       "user_id": 5,
       "name": "Phil",
       "description": "Wil graag bléren",
       "instrument": "Vocals",
-      "latitude": 51.91719,
-      "longitude": 4.488323,
-      "views": 1
+      "latitude": 51.096739,
+      "longitude": 4.265309,
+      "views": 4
     }
 
   ]
